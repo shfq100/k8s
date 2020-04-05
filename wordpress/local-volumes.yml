@@ -27,4 +27,3 @@ spec:
     - ReadWriteOnce
   hostPath:
     path: /tmp/data/pv-2
-    
